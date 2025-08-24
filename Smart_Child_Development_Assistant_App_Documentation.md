@@ -1,7 +1,6 @@
 # Smart Child Development Assistant App
 ## Professional Project Documentation
 
----
 
 ## 1. Project Overview
 
@@ -22,7 +21,6 @@ The Smart Child Development Assistant App is a comprehensive digital platform de
 - **Educational Users**: Teachers and school administrators
 - **Children**: Direct interaction for age-appropriate features (8+ years)
 
----
 
 ## 2. Development Roadmap
 
