@@ -1,34 +1,3 @@
-# DhakaVoice: A Full-Stack Civic Engagement Platform for Digital Complaint Management
-
-## Internship Project Report
-
-**Student Name:** [Your Name]  
-**Institution:** [Your University/College]  
-**Internship Period:** [Start Date - End Date]  
-**Supervisor:** [Supervisor Name]  
-**Date of Submission:** [Current Date]
-
----
-
-## Table of Contents
-
-1. [Abstract](#abstract)
-2. [Introduction](#introduction)
-3. [Literature Review & Technology Analysis](#literature-review--technology-analysis)
-4. [System Design & Architecture](#system-design--architecture)
-5. [Implementation Details](#implementation-details)
-6. [Technical Challenges & Solutions](#technical-challenges--solutions)
-7. [Testing & Quality Assurance](#testing--quality-assurance)
-8. [Results & Achievements](#results--achievements)
-9. [Learning Outcomes & Skills Developed](#learning-outcomes--skills-developed)
-10. [Challenges Faced & Lessons Learned](#challenges-faced--lessons-learned)
-11. [Future Enhancements](#future-enhancements)
-12. [Conclusion](#conclusion)
-13. [References & Bibliography](#references--bibliography)
-14. [Appendices](#appendices)
-
----
-
 ## Abstract
 
 This internship project presents DhakaVoice, a full-stack civic engagement platform designed to revolutionize complaint management for Dhaka's 21+ million citizens. The platform addresses critical gaps in urban governance by providing transparent, efficient digital complaint processing with real-time tracking and community engagement features.
